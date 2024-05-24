@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776172667396",
+    "project_id": "chat-esay-63612",
+    "storage_bucket": "chat-esay-63612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776172667396:android:823a9c8ef3c1680ac92b51",
+        "android_client_info": {
+          "package_name": "com.example.chatesay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEfggxQeftm2b0dnxJ2Jaw42Td4KKkPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
